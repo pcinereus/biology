@@ -1,0 +1,10 @@
+Package: biology
+Type: Package
+Title: A collection of biostatistics functions
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Murray Logan <i.obesulus@gmail.com>
+Description: A collection of functions to support the book "Biostatistical Design and Analysis Using R"
+License: GPL
+Encoding: UTF-8
+LazyData: true
