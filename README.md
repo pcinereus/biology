@@ -17,4 +17,6 @@ available. The easiest way to install the package is from Github.
 ``` r
 # install.packages("devtools")
 devtools::install_github("pcinereus/biology")
+#OR if you get an error about Curl..
+devtools::install_github("pcinereus/biology", host="https://api.github.com")
 ```
