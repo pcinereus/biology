@@ -17,4 +17,4 @@ LazyData: true
 Suggests:
   rgdal,
   adehabitat,
-  sp,
+  sp
